@@ -1,6 +1,8 @@
 Name	Days	Nights	Miles	Vertical	Partners	Solo?	Summit	Date
 Rainier WV	2	1	14.48	9043		FALSE		
 							Mt. Rainier	07-20-2010
+Rainier with Caitlin	3	2	15.6	10390	Caitlin,Peter	FALSE		
+							Mt. Rainier	07-23-2013
 Adams WV	4	3	22.23	9056		FALSE		
 							Mt. Adams	07-16-2010
 Little Tahoma	2	2	16	7438	Duncan	FALSE		
@@ -11,7 +13,7 @@ Glacier Peak	2	2	32.92	13023	Cameron,Addison	FALSE
 							Glacier Peak	05-05-2019
 Bonanza and Martin	3	2	16.52	9242	Dan,Margaret	FALSE		
 							Bonanza Peak	07-21-2019
-							Martin Peak	07-21-2019
+							Hard Martin Peak	07-21-2019
 West Ridge Stuart	3	2	16.74	9879	Adam	FALSE		
 							Mt. Stuart	08-05-2018
 							Sherpa Peak	08-05-2018
@@ -50,6 +52,7 @@ Sinister	3	2	37.2	10388	Dan	FALSE
 							Dome Peak	06-20-2015
 							Sinister Peak	06-20-2015
 Boston	2	1	12.2	7421	Dan	FALSE		
+							Sahale Mountain	07-18-2018
 							Boston Peak	07-18-2018
 Silver Star Ski	1	1	7.26	5500	Duncan	FALSE		
 							Silver Star Mountain	05-15-2014
@@ -105,13 +108,14 @@ Martin Hoodoo Mashup	2	2	21.23	10073		TRUE
 							Hoodoo Peak	06-17-2017
 							Mt. Bigelow	06-17-2017
 							Switchback Peak	06-18-2017
-							Martin Peak	06-18-2017
+							Easy Martin Peak	06-18-2017
 Prusik Peak	2	2	16.2	7600	Adam	FALSE		
 							Enchantment Peak	05-30-2015
 							Little Annapurna	05-30-2015
 Reynolds	1	0	12.12	6240		TRUE		
 							Reynolds Peak	06-19-2017
 Primus Ski	3	2	17.78	10842	Dan,Cameron,Addison	FALSE		
+							Eldorado Peak	06-01-2019
 							Primus Peak	06-02-2019
 Dark Peak	3	2	26.24	10078	Dan	FALSE		
 							Dark Peak	09-01-2013
@@ -121,6 +125,7 @@ Moxes	4	3	26.81	13609	Dan	FALSE
 Cashmere	2	1	17	5101		TRUE		
 							Cashmere Mountain	07-24-2015
 Dorado Needle with Becca	4	3	15.17	12613	Becca	FALSE		
+							Eldorado Peak	07-28-2017
 							Klawatti Peak	07-29-2017
 							Dorado Needle	07-28-2017
 Craggies	2	1	9	6650	Duncan	FALSE		
@@ -154,3 +159,5 @@ Formidable	2	1	19.4	11042	Dan,Adam,Addison	FALSE
 							Mt. Formidable	08-06-2017
 Abernathy Ski	1	1	10.12	5698	Dan	FALSE		
 							Abernathy Peak	05-19-2019
+Jack	2	1	22.88	15848		TRUE		
+							Jack Mountain	09-07-2019	
